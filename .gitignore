@@ -1,4 +1,4 @@
-app.py
-narrative_navigator_app.py
-nppBackup/
-.git/
+app.py*
+narrative_navigator_app.py*
+nppBackup
+.git
