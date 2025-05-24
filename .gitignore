@@ -1,4 +1,24 @@
-app.py*
-narrative_navigator_app.py*
-nppBackup
-.git
+# Ignore Python files
+app.py
+app2.py
+narrative_navigator_app.py
+
+# Ignore backup and temporary files/folders
+nppBackup/
+templates/
+logs/
+
+# Ignore IDE/project-specific files
+*.pyc
+__pycache__/
+*.qss
+
+# Ignore Git itself (remove this line if unintended)
+#.git/  # Uncomment only if you want to ignore the .git folder (not recommended)
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (if any)
+.env
