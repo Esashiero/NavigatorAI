@@ -1,5 +1,4 @@
 # Ignore Python files
-app.py
 app2.py
 narrative_navigator_app.py
 
@@ -11,7 +10,7 @@ logs/
 # Ignore IDE/project-specific files
 *.pyc
 __pycache__/
-*.qss
+
 
 # Ignore Git itself (remove this line if unintended)
 #.git/  # Uncomment only if you want to ignore the .git folder (not recommended)
